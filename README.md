@@ -11,8 +11,7 @@ Hey there, tech voyager! Welcome to my GitHub playground! 🚀
 - Apache Spark ⚡
 
 #### Recent Quests:
-- [Project 1](link-to-project-1): A journey to data-driven insights.
-- [Project 2](link-to-project-2): Where data met magic.
-
+- 🎓 Pursuing Azure Data Certification: Forging my path to Azure mastery!
+- 🚗 currently working on the Uber Data Set to see if i can get some useful insight
 #### Connect with Me in the Digital Realm:
 - [LinkedIn](https://www.linkedin.com/in/omotosho-ayomide-383356172/)
