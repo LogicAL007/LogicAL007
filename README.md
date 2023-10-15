@@ -15,4 +15,4 @@ Hey there, tech voyager! Welcome to my GitHub playground! 🚀
 - 🚗 currently working on the a timeseriesDb to see if i can get some useful insight
 #### Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/omotosho-ayomide-383356172/)
--[E-mail](Ayomidemtsh@gmail.com)
+- [E-mail](Ayomidemtsh@gmail.com)
