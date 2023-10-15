@@ -4,7 +4,7 @@
 
 Hey there, tech voyager! Welcome to my GitHub playground! 🚀
 
-#### Skills That Make Me Dance:
+#### Current skill set:
 - Python 🐍
 - Azure cloud services ☁️
 - SQL 📊
