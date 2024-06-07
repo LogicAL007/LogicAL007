@@ -1,4 +1,4 @@
-# Omotosho Ayomide
+# Omotosho
 
 ### 🌟 Data Dynamo | Python Prodigy | Azure Aficionado | SQL Sorcerer | Apache Spark Enthusiast 🌟
 
