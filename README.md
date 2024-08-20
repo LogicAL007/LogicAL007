@@ -1,6 +1,6 @@
 # Omotosho
 
-### 🌟 Data Dynamo | Python Prodigy | Azure Aficionado | SQL Sorcerer | Apache Spark Enthusiast 🌟
+### 🌟 Data Dynamo | Python Prodigy | Azure Aficionado | SQL Sorcerer |
 
 Hey there, tech voyager! Welcome to my GitHub playground, I am a Data Engineer adept in Python, SQL, API integration, and Cloud platforms (AWS & GCP) with years of hands-on experience in ETL processes, data warehousing, and database design. I'm passionate about crafting scalable solutions for real-world challenges and dedicated to empowering businesses with data-driven decision-making capabilities! 🚀
 
