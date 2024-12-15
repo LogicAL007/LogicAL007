@@ -1,6 +1,6 @@
 # Omotosho Ayomide 
 
-### 🚀 Data Engineer | Python Automator | Cloud Solutionist | SQL Optimizer  
+### 🚀 Data Engineer | Python Expert | Cloud Enthusiast | SQL   
 
 Hi! I’m a **Data Engineer** specializing in designing and implementing robust, scalable data architectures to solve complex business problems. My expertise lies in building high-performance pipelines, optimizing workflows, and delivering reliable analytics platforms for modern data-driven organizations. With deep technical knowledge and hands-on experience, I’m passionate about transforming raw data into valuable insights that drive business growth.  
 
